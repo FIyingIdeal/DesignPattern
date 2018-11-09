@@ -1,0 +1,1 @@
+最简单的原型模式，使用Object中的clone方法，而Java中任何实现了Cloneable接口的类都可以使用clone方法进行对象拷贝。
